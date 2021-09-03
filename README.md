@@ -39,7 +39,7 @@ We will make a list of the analysis methods we want to cover in the first class,
 
 Before the class, all students are required to read each week's key papers and watch the video lectures (if there is any). In the class, the leader student has to give a presentation first, and also provides a hands-on experience.
 
-### Team meating:
+### Team meeting:
 
 Each team should have a meeting with Wani few weeks before your week. Ideally, after the class. You should request the meetings in advance. 
 
