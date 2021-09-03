@@ -35,7 +35,7 @@ Let's do this process together! I believe in a collective intelligence, and thro
 
 ## Course format and expectations
 
-We will make a list of the analysis methods we want to cover in the first class, and each student will be assigned to each method. The leader student should provide: 1) key papers that used the methods, 2) video lecture links (if available), 3) presentation in the class (focused on the method), 4) example data and codes (these will be uploaded to our class github repository). 
+We will make a list of the analysis methods we want to cover in the first class, and each student will be assigned to each method. The leader student should provide: 1) key papers that used the methods, 2) video links (if there is any), 3) presentation in the class (focused on the method), 4) example data and codes (these will be uploaded to our class github repository). 
 
 Before the class, all students are required to read each week's key papers and watch the video lectures (if there is any). In the class, the leader student has to give a presentation first, and also provides a hands-on experience.
 
