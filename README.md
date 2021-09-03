@@ -79,8 +79,6 @@ _Note._ Weekly plan described above can be adjusted as our class develops.
 
 We have 13 weeks!
 
-https://www.sciencedirect.com/science/article/pii/S105381192100104X
-
 1. Activity flow over resting-state networks ([Michael Cole lab](http://www.colelab.org/),  [github](https://github.com/ColeLab/ActflowToolbox) has multiple papers on this)
   - Ito, T., Hearne, L., Mill, R., Cocuzza, C., & Cole, M. W. (2020). Discovering the Computational Relevance of Brain Network Organization. Trends in Cognitive Sciences, 24(1), 25–38.
   - Cole, M. W., Ito, T., Bassett, D. S., & Schultz, D. H. (2016). Activity flow over resting-state networks shapes cognitive task activations. Nature Neuroscience, advance online publication. https://doi.org/10.1038/nn.4406
