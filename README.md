@@ -84,13 +84,16 @@ We have 13 weeks! Here are the options:
   - Cole, M. W., Ito, T., Bassett, D. S., & Schultz, D. H. (2016). Activity flow over resting-state networks shapes cognitive task activations. Nature Neuroscience, advance online publication. https://doi.org/10.1038/nn.4406
   - Hearne, L. J., Mill, R. D., Keane, B. P., Repovš, G., Anticevic, A., & Cole, M. W. (2021). Activity flow underlying abnormalities in brain activations and cognition in schizophrenia. Science Advances, 7(29). https://doi.org/10.1126/sciadv.abf2513
   - etc. search papers with "activity flow" in colelab papers
+  - 지웅, Juan Medrano
 
 2. Temporal communities detection
   - Thompson, W. H., Kastrati, G., Finc, K., Wright, J., Shine, J. M., & Poldrack, R. A. (2020). Time-varying nodal measures with temporal community structure: A cautionary note to avoid misinterpretation. Human Brain Mapping, 41(9), 2347–2356.
   - Thompson, W. H., Wright, J., Shine, J. M., & Poldrack, R. A. (2019). The identification of temporal communities through trajectory clustering correlates with single-trial behavioural fluctuations in neuroimaging data. bioRxiv, 617027, [github](https://github.com/wiheto/teneto))
+  - 지수, 형섭
 
 3. State space in fMRI 
   - Shine, J. M., Breakspear, M., Bell, P. T., Martens, K. A. E., Shine, R., Koyejo, O., Sporns, O., & Poldrack, R. A. (2019). Human cognition involves the dynamic integration of neural activity and neuromodulatory systems. Nature Neuroscience, 22(2), 289. [https://github.com/macshine/state_space](https://github.com/macshine/state_space))
+  - 정우, 이은진
 
 4. Seed-based mean co-activation patterns CAPs 
   - Bolton, T. A. W., Tuleasca, C., Wotruba, D., Rey, G., Dhanis, H., Gauthier, B., Delavari, F., Morgenroth, E., Gaviria, J., Blondiaux, E., Smigielski, L., & Van De Ville, D. (2020). TbCAPs: A toolbox for co-activation pattern analysis. NeuroImage, 211, 116621. [toolbox](https://c4science.ch/source/CAP_Toolbox/)
@@ -98,25 +101,30 @@ We have 13 weeks! Here are the options:
 
 5. Quasi-periodic pattern analysis 
   - Yousefi, B., & Keilholz, S. (2021). Propagating patterns of intrinsic activity along macroscale gradients coordinate functional connections across the whole brain. NeuroImage, 231, 117827. [github](https://github.com/GT-EmoryMINDlab), [C-PAC link](https://fcp-indi.github.io/docs/latest/user/group_qpp))
+  - 안예찬, 주경진
 
 6. Cross hierarchy propagation 
   - Gu, Y., Sainburg, L. E., Kuang, S., Han, F., Williams, J. W., Liu, Y., Zhang, N., Zhang, X., Leopold, D. A., & Liu, X. (2021). Brain Activity Fluctuations Propagate as Waves Traversing the Cortical Hierarchy. Cerebral Cortex , 31(9), 3986–4005. [github](https://github.com/YamengGu/the-cross-hierarchy-propagation))
+  - 노영, 최준현
 
 7. Variational autoencoder (VAE) in fMRI 
   - Kim, J.-H., Zhang, Y., Han, K., Wen, Z., Choi, M., & Liu, Z. (2021). Representation learning of resting state fMRI with variational autoencoder. NeuroImage, 241, 118423. [link](https://www.sciencedirect.com/science/article/pii/S1053811921006984), [github](https://github.com/libilab/rsfMRI-VAE), 
   - Zhang, X., Maltbie, E., & Keilholz, S. (2021). Spatiotemporal Trajectories in Resting-state FMRI Revealed by Convolutional Variational Autoencoder. In bioRxiv (p. 2021.01.25.427841). https://doi.org/10.1101/2021.01.25.427841 [link](https://www.biorxiv.org/content/10.1101/2021.01.25.427841v1.abstract))
+  - 성우, 혜빈
 
 8. Deep learning in fMRI 
   - VanRullen, R., & Reddy, L. (2018). Reconstructing Faces from fMRI Patterns using Deep Generative Neural Networks. arXiv:1810.03856 [cs, Q-Bio]. http://arxiv.org/abs/1810.03856,
   - Horikawa, T., & Kamitani, Y. (2017). Generic decoding of seen and imagined objects using hierarchical visual features. Nature Communications, 8, ncomms15037.
   - Wen, H., Shi, J., Zhang, Y., Lu, K.-H., Cao, J., & Liu, Z. (n.d.). Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision. Cerebral Cortex , 1–25.
   - Zhang, Y., Han, K., Worth, R., & Liu, Z. (2020). Connecting concepts in the brain by mapping cortical representations of semantic relations. Nature Communications, 11(1), 1877. 
+  - 다솜, 박채정
 
 9. Personalized and surface-based parcellation methods:
   - Glasser, M. F., Coalson, T. S., Robinson, E. C., Hacker, C. D., Harwell, J., Yacoub, E., Ugurbil, K., Andersson, J., Beckmann, C. F., Jenkinson, M., Smith, S. M., & Van Essen, D. C. (2016). A multi-modal parcellation of human cerebral cortex. Nature, advance online publication. https://doi.org/10.1038/nature18933 
   - Gordon, E. M., Laumann, T. O., Gilmore, A. W., Newbold, D. J., Greene, D. J., Berg, J. J., Ortega, M., Hoyt-Drazen, C., Gratton, C., Sun, H., Hampton, J. M., Coalson, R. S., Nguyen, A. L., McDermott, K. B., Shimony, J. S., Snyder, A. Z., Schlaggar, B. L., Petersen, S. E., Nelson, S. M., & Dosenbach, N. U. F. (2017). Precision Functional Mapping of Individual Human Brains. Neuron, 95(4), 791–807.e7.
   - Ji, J. L., Spronk, M., Kulkarni, K., Repovš, G., Anticevic, A., & Cole, M. W. (2019). Mapping the human brain’s cortical-subcortical functional network organization. NeuroImage, 185, 35–57. Cole lab's [CAB-NP](https://github.com/ColeLab/ColeAnticevicNetPartition)
   - Dickie, E. W., Anticevic, A., Smith, D. E., Coalson, T. S., Manogaran, M., Calarco, N., Viviano, J. D., Glasser, M. F., Van Essen, D. C., & Voineskos, A. N. (2019). Ciftify: A framework for surface-based analysis of legacy MR acquisitions. NeuroImage, 197, 818–826. [ciftify](https://github.com/edickie/ciftify)
+  - 재중, 혜민
 
 10. Introducing multiple parcellations and maps 
   - [Canlab Neuroimaging_Pattern_Masks repository](https://github.com/canlab/Neuroimaging_Pattern_Masks)
@@ -126,25 +134,30 @@ We have 13 weeks! Here are the options:
   - Constable group
   - Brainnetome
   - and more (what's more recent ones? please update me)
+  - 백준호, Arpan Ghosh
 
 
 11. Connectopic mapping
   - Haak, K. V., Marquand, A. F., & Beckmann, C. F. (2018). Connectopic mapping with resting-state fMRI. NeuroImage, 170, 83–94. [paper](https://www.sciencedirect.com/science/article/pii/S1053811917305463), [github](https://github.com/koenhaak/congrads)
+  - Yutong Bai, 함홍기
 
 12. Intrinsic timescale
   - Raut, R. V., Snyder, A. Z., & Raichle, M. E. (2020). Hierarchical dynamics as a macroscopic organizing principle of the human brain. Proceedings of the National Academy of Sciences of the United States of America, 117(34), 20890–20897.
   - Raut, R. V., Snyder, A. Z., Mitra, A., Yellin, D., Fujii, N., Malach, R., & Raichle, M. E. (2021). Global waves synchronize the brain’s functional systems with fluctuating arousal. Science Advances, 7(30), eabf2709.
   - [github](https://github.com/ryraut/arousal-waves)
+  - 허권, 김준호
 
 
 13. Topographical factor analysis (Jeremy Manning, [MIND2017](https://mindsummerschool.org/2017/08/13/multiscale-network-dynamics.html))
 
 14. Successor Representation etc. (by Ida Momennejad at [MIND2017, 2018, 2019](https://mindsummerschool.org); this is not specifically about fMRI, but it has been addressed in MIND for three years, and at 2019, Dr. Momennejad provided a tutorial. I think we can learn about SR together and discuss how to implement this for fMRI)
+  - 제영, Nabih Pico
 
 15. Graph neural network 
   - Li, X., Zhou, Y., Dvornek, N., Zhang, M., Gao, S., Zhuang, J., Scheinost, D., Staib, L., Ventola, P., & Duncan, J. (2021). BrainGNN: Interpretable Brain Graph Neural Network for fMRI Analysis. In bioRxiv (p. 2020.05.16.100057). https://doi.org/10.1101/2020.05.16.100057 
   - there can be more in fMRI, and
   - there will be huge literature on GNN in computer science
+  - 지훈, 김수종
 
 
 Others (maybe save for future):
