@@ -58,19 +58,19 @@ This class will use the absolute evaluation.
 Week  | Topic | Video lecture | Reading | Codes 
 ------| ----- | ----- | ----- | -------
 Week 1 (9/3) | Class overview, Team assignment ||||
-Week 2 (9/10) | TBD | | | |
-Week 3 (9/17) | TBD | | | |
-Week 4 (9/24) | TBD | | | |
-Week 5 (10/1) | TBD | | | |
-Week 6 (10/8) | TBD | | | |
-Week 7 (10/15) | TBD | | | |
-Week 8 (10/22) | TBD | | | |
-Week 9 (10/29) | TBD | | | |
-Week 10 (11/5) | TBD | | | |
-Week 11 (11/12) | TBD | | | |
-Week 12 (11/19) | TBD | | | |
-Week 13 (11/26) | TBD | | | |
-Week 14 (12/3) | TBD | | | |
+Week 2 (9/10) | Activity flow over resting-state networks (지웅, Juan Medrano)| | | |
+Week 3 (9/17) | Introducing multiple parcellations and maps (백준호, Arpan Ghosh)  | | | |
+Week 4 (9/24) | Intrinsic timescale (허권, 김준호) | | | |
+Week 5 (10/1) | Temporal communities detection (지수, 형섭) | | | |
+Week 6 (10/8) | Cross hierarchy propagation (노영, 최준현) | | | |
+Week 7 (10/15) | Deep learning in fMRI (다솜, 박채정)  | | | |
+Week 8 (10/22) | Connectopic mapping (Yutong Bai, 함홍기) | | | |
+Week 9 (10/29) | Quasi-periodic pattern analysis (안예찬, 주경진) | | | |
+Week 10 (11/5) | Variational autoencoder (VAE) in fMRI (성우, 혜빈) | | | |
+Week 11 (11/12) | Successor Representation (제영, Nabih Pico) | | | |
+Week 12 (11/19) | Personalized and surface-based parcellation methods (재중, 혜민) | | | |
+Week 13 (11/26) | Graph neural network (지훈, 김수종) | | | |
+Week 14 (12/3) | State space in fMRI (정우, 이은진) | | | |
 Week 15 (12/10) | Final week | | | |
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
