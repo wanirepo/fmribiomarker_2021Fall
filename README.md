@@ -77,7 +77,7 @@ _Note._ Weekly plan described above can be adjusted as our class develops.
 
 ## Potential topics
 
-We have 13 weeks!
+We have 13 weeks! Here are the options:
 
 1. Activity flow over resting-state networks ([Michael Cole lab](http://www.colelab.org/),  [github](https://github.com/ColeLab/ActflowToolbox) has multiple papers on this)
   - Ito, T., Hearne, L., Mill, R., Cocuzza, C., & Cole, M. W. (2020). Discovering the Computational Relevance of Brain Network Organization. Trends in Cognitive Sciences, 24(1), 25–38.
